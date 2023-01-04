@@ -1,10 +1,10 @@
 # APIs
-<img src="https://raw.githubusercontent.com/yding25/pic_share/master/segbot_ur5.png" width="300" />
+<img src="https://raw.githubusercontent.com/yding25/pic_share/master/segbot_ur5_vacuum_sucker.png" width="300" />
 
 ## Grasp and ungrasp object
 Load segbot_ur5, controllers, rviz, ...
 ```
-roslaunch tamp_perception segbot_ur5_main.launch
+roslaunch tamp_perception segbot_ur5_vacuum.launch
 ```
 Run script to execute tasks
 ```
