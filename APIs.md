@@ -6,6 +6,10 @@ Load segbot_ur5, controllers, rviz, ...
 ```
 roslaunch tamp_perception segbot_ur5_vacuum.launch
 ```
+Load vacuum gripper plugin
+```
+rosrun tamp_perception vacuum_control.py
+```
 Run script to execute tasks
 ```
 rosrun tamp_perception task_grasp_putdown.py
