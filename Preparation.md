@@ -1,5 +1,5 @@
 # Preparation
-<img src="https://raw.githubusercontent.com/yding25/pic_share/master/segbot_ur5_vacuum_sucker.jpg"/>
+<img src="https://raw.githubusercontent.com/yding25/pic_share/master/segbot_ur5_vacuum_sucker.png"/>
 
 ## Install ROS (melodic) on Ubuntu 18.04
 ```
